@@ -4,6 +4,7 @@
  * Time : 11:30
  * Project: springbootstudentmanegmentsystem
  **/
+/*This is Student Manegement Project*/
 package com.example.springbootstudentmanegmentsystem.entity;
 
 import jakarta.persistence.*;
